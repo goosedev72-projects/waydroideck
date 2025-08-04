@@ -6,7 +6,7 @@
     <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">WaydroiDeck</h3>
+# WaydroiDeck
 
 <!-- TABLE OF CONTENTS -->
 <details>
