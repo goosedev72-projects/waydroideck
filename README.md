@@ -2,7 +2,6 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
   <a href="https://github.com/goosedev72-projects/waydroideck">
     <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
